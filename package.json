@@ -1,0 +1,15 @@
+{
+  "name": "bank",
+  "version": "1.0.0",
+  "description": "um pequeno sistema bancário",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giovanna Azevedo",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
